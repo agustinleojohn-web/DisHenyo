@@ -1,11 +1,11 @@
-# robots.txt for leojohnagustin.com
+# robots.txt for dishenyo.com
 # Leo John Agustin - Graphic Designer & Front-End Web Developer Portfolio
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://leojohnagustin.com/sitemap.xml
+Sitemap: https://dishenyo.com/sitemap.xml
 
 # Crawl-delay (optional - be nice to servers)
 Crawl-delay: 1
