@@ -6,7 +6,7 @@
 
     <!-- Homepage -->
     <url>
-        <loc>https://dishenyo.free.nf/</loc>
+        <loc>https://dishenyo.com/</loc>
         <lastmod>2025-01-07</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
     <!-- About Section -->
     <url>
-        <loc>https://dishenyo.free.nf/#about</loc>
+        <loc>https://dishenyo.com/#about</loc>
         <lastmod>2025-01-07</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -22,7 +22,7 @@
 
     <!-- Services Section -->
     <url>
-        <loc>https://dishenyo.free.nf/#services</loc>
+        <loc>https://dishenyo.com/#services</loc>
         <lastmod>2025-01-07</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
@@ -30,7 +30,7 @@
 
     <!-- Portfolio Section -->
     <url>
-        <loc>https://dishenyo.free.nf/#portfolio</loc>
+        <loc>https://dishenyo.com/#portfolio</loc>
         <lastmod>2025-01-07</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -38,7 +38,7 @@
 
     <!-- Testimonials Section -->
     <url>
-        <loc>https://dishenyo.free.nf/#testimonials</loc>
+        <loc>https://dishenyo.com/#testimonials</loc>
         <lastmod>2025-01-07</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -46,7 +46,7 @@
 
     <!-- Contact Section -->
     <url>
-        <loc>https://dishenyo.free.nf/#contact</loc>
+        <loc>https://dishenyo.com/#contact</loc>
         <lastmod>2025-01-07</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
